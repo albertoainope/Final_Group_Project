@@ -6,7 +6,7 @@ def top_10_words(file_name):
     :return: list of top 10 words longer than 4 characters
     """
     frequency = {}
-    punctuation = ",.!?\n"
+    punctuation = "(,)'.!?\n"
     with open(file_name, "r") as file:
         for line in file:
             for p in punctuation:
@@ -22,11 +22,5 @@ def top_10_words(file_name):
     top_words = [word for word, _ in top_10[:10]]
     return top_words
 
-print(top_10_words("williamson.txt"))
-
-
-
-    #print top words by frequency
-    #for word, freq n word_freq.items():
-        #if freq in top_freq:
-           # print(f"{word}: {freq}")
+if __name__ == "__main__":
+    print(top_10_words("prog1.txt"))
