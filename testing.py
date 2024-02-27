@@ -1,4 +1,3 @@
-#define a function that scrapes the top 10 most repeated words in a text file
 def top_10_words(file_name):
     """
     This function will return the top 10 most repeated words longer than 4 characters in a text file
