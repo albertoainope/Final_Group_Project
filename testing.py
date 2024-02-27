@@ -22,4 +22,4 @@ def top_10_words(file_name):
     return top_words
 
 if __name__ == "__main__":
-    print(top_10_words("prog1.txt"))
+    print(top_10_words("williamson.txt"))

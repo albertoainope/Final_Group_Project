@@ -20,8 +20,10 @@ def play_game(top_words):
         else:
             print("Incorrect. Try again!")
     print("Congratulations! You guessed all the words!")
+    print(f"The words were: {top_words}")
 
 try:
     play_game(top_10_words("williamson.txt"))
 except ValueError:
     print("GAME OVER")
+    print(f"The 10 words were: {top_10_words('williamson.txt')}")
