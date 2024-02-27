@@ -1,0 +1,387 @@
+The New Institutional Economics: Taking Stock, Looking Ahead Author(s): Oliver E. Williamson
+Source: Journal of Economic Literature , Sep., 2000, Vol. 38, No. 3 (Sep., 2000), pp. 595- 613
+Published by: American Economic Association Stable URL: https://www.jstor.org/stable/2565421
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at https://about.jstor.org/terms
+is collaborating with JSTOR to digitize, preserve and extend access to Journal of Economic Literature
+This content downloaded from 154.59.124.250 on Wed, 13 Dec 2023 10:47:50 +00:00
+All use subject to https://about.jstor.org/terms
+Journal of Economic Literature
+Vol. XXXVIII (September 2000) pp. 595-613
+The New Institutional Economics: Taking Stock, Looking Ahead
+1. Introduction
+I OPEN MY DISCUSSION of the new in- stitutional economics with a confes- sion, an assertion, and a recommenda- tion. The confession is that we are still very ignorant about institutions. The as- sertion is that the past quarter century has witnessed enormous progress in the study of institutions. The recommenda- tion is that, awaiting a unified theory, we
+should be accepting of pluralism.
+Chief among the causes of ignorance is that institutions are very complex. That neoclassical economics was dismis- sive of institutions and that much of or- ganization theory lacked scientific am- bitions have also been contributing factors. As to progress, that is what most of this paper is about. There being many instructive lenses for studying complex institutions, pluralism is what holds promise for overcoming our
+ignorance.
+Speaking for myself, I subscribe to
+Jon Elster's view that we work predomi- nantly on partial mechanisms rather than general theories at this stage of de-
+velopment (1994, p. 75). In considera- tion, however, of the "splendid plausi- bility of error" to which Lord Acton re- fers,2 we need to sort the sheep from the goats. That is accomplished by ask- ing each would-be theory to advance re- futable implications to which the data are applied.
+R. C. 0. Matthews, in his presidential address to the Royal Economic Society in 1986, pronounced that "the econom- ics of institutions has become one of the liveliest areas in our discipline" (Mat- thews 1986, p. 903). Such a pronounce- ment was a surprise to most of the pro- fession. Hadn't institutional economics long since been relegated to the history of economic thought? Whence the vitality to which Matthews made reference?
+Matthews' response was that the new institutional economics (NIE) turned on two propositions. First, "institutions do matter"; and second, "the determinants of institutions are susceptible to analy- sis by the tools of economic theory"
+(Matthews 1986, p. 903). The second of these is what distinguishes the NIE, it being the case that institutional econo-
+OLIVER E. WILLIAMSON'
+mists of all kinds old and new-are 1 University of California, Berkeley. owilliam@
+haas.berkeley.edu. This paper was first presented at the third annual meeting of the International Society for New Institutional Economics in Wash- ington, DC in September 1999 in my capacity as president-elect. Helpful comments received there and from Bengt Holmstrom and John McMillan are gratefully acknowledged.
+unanimous in the view that institutions matter.
+Indeed, although both the older and newer styles of institutional economics
+2 As quoted in Daniel Boorstin (1998, p. 281).
+This content downloaded from 154.59.124.250 on Wed, 13 Dec 2023 10:47:50 +00:00
+595
+All use subject to https://about.jstor.org/terms
+596 Journal of Econonic Literature, Vol. XXXVIII (September 2000)
+subscribe to many of the same good ideas, a progressive research program requires more. Kenneth Arrow speaks to the transformation as follows (1987, p. 734):
+Why did the older institutionalist school fail so miserably, though it contained such able analysts as Thorstein Veblen, J. R. Commons, and WV. C. Mitchell? I now think that . . . [one of the answers is in the] important spe- cific analyses . . . of the New Institutional Economics movement. But it does not consist of giving new answers to the traditional ques- tions of economics-resource allocation and the degree of utilization. Rather, it consists of answering new questions, why economic institutions emerged the way they did and not otherwise; it merges into economic his- tory, but brings sharper [microanalytic] . . . reasoning to bear than had been customary.
+There is no question that the NIE has grown in stature and influence over the fourteen years since Matthews' pro- nouncement. Initial skepticism has gradually given way to respect it being the case that economists are very prag- matic people. Tell them something dif- ferent and consequential about phe- nomena that are of interest to them and demonstrate that the data are corrobo- rative: that will get their attention. The NIE has progressed not by advancing an overarching theory but by uncovering and explicating the microanalytic features to which Arrow refers and by piling block upon block until the cumulative value added cannot be denied.
+The NIE, moreover, will not stand still. Even as institutional economics is being incorporated within orthodoxy, new opportunities and challenges await. Both unfinished business and new proj- ects yet to be undertaken await the new millennium.
+I begin with a sketch of four levels of social analysis, next turn to some of the good ideas out of which the NIE works, and then examine some of the applica- tions to which the NIE has been put. Concluding remarks follow.
+2. Four Levels of Social Analysis
+It will be useful for purposes of per- spective to consider the four levels of social analysis that are distinguished in Figure 1.3 The solid arrows that con- nect a higher with a lower level signify that the higher level imposes con- straints on the level immediately below. The reverse arrows that connect lower with higher levels are dashed and signal feedback. Although, in the fullness of time, the system is fully interconnected, I mainly neglect these feedbacks. The NIE has been concerned principally
+with levels 2 and 3.
+The top level is the social embedded-
+ness level. This is where the norms, cus- toms, mores, traditions, etc. are located. Religion plays a large role at this level. Although Level 1 analysis is undertaken by some economic historians and other social scientists (E. C. Banfield 1958; Robert Putnam, Robert Leonardi, and Raffaella Nanetti 1993; Samuel Hunt- ington 1996; and Victor Nee 1998), Level 1 is taken as given by most insti- tutional economists. Institutions at this level change very slowly-on the order of centuries or millennia-whereupon Douglass North poses the query, "What is it about informal constraints that gives them such a pervasive influence upon the long-run character of economies?" (1991, p. 111).
+North does not have an answer to that perplexing question, nor do I. The concept of "embeddedness," both at the level of society and in the context of on- going network relations, has been ad- vanced to help explicate these issues (Granovetter 1985). The vast literature on culture (Paul DiMaggio 1994) is also pertinent. Neil Smelser and Richard Swedberg discuss these and related issues in their introduction to the Handbook
+3 This framework was first set out in Williamson (1998).
+This content downloaded from 154.59.124.250 on Wed, 13 Dec 2023 10:47:50 +00:00
+All use subject to https://about.jstor.org/terms
+Williamson: The New Institutional Economics 597
+Frequency
+Level (years) Purpose
+Embeddedness:
+informalOften noncalculative;
+institutions, 102 to 103 spontaneous LI customs, (caveat: see discussion
+traditions, norm s in text) religion
+Institutional environment:Getthe
+form al rules of institutional L2thegame-esp.10to102environmentright.
+property (polity, 1st order judiciary,economizing
+bureaucracy)
+Governance: Get the play of the game governance
+L -esp. contract 1 to 10 structures right. (aligning governance 2nd order
+structures with economizing transactions)
+Resource Get the allocation and marginal
+L4 employment continuous conditions right. (prices and quantities; 3rd order
+incentivealignment)economizing
+LI: social theory L2:economicsofpropertyrights/p L3:transactioncosteconomics L4:neoclassicaleconomics/agency th
+Figure1.EconomicsofInstitut
+of Economic Sociology, where they ob- serve that different kinds of embedded- ness-cognitive, cultural, structural, and political-should be distinguished, and conclude that "the concept of em- beddedness remains in need of greater theoretical specification" (1994, p. 18).
+An identification and explication of the mechanisms through which informal institutions arise and are maintained would especially help to understand the slow change in Level 1 institutions. I conjecture in this connection that many of these informal institutions have
+mainly spontaneous origins-which is to say that deliberative choice of a calcula- tive kind is minimally implicated. Given these evolutionary origins, they are "adopted" and thereafter display a great deal of inertia-some because they are functional (as with conventions); others take on symbolic value with a coterie of true believers; many are pervasively linked with complementary institutions (formal and informal), etc. Be that as it may, the resulting institutions have a lasting grip on the way a society con- ducts itself. Insular societies often take
+This content downloaded from 154.59.124.250 on Wed, 13 Dec 2023 10:47:50 +00:00
+All use subject to https://about.jstor.org/terms
+598 Journal of Economic Literature, Vol. XXXVIII (September 2000)
+measures to protect themselves against "alien values."
+The second level is referred to as the institutional environment. The struc- tures observed here are partly the prod- uct of evolutionary processes, but de- sign opportunities are also posed. Going beyond the "informal constraints (sanc- tions, taboos, customs, traditions, and codes of conduct)" of a Level 1 kind, we now introduce "formal rules (constitu- tions, laws, property rights)" (North 1991, p. 97). This opens up the oppor- tunity for first-order economizing: get the formal rules of the game right.
+Constrained by the shadow of the past, the design instruments at Level 2 include the executive, legislative, judi- cial, and bureaucratic functions of gov- ernment as well as the distribution of powers across different levels of gov- ernment (federalism). The definition and enforcement of property rights and of contract laws are important features.
+Although such first-order choices are unarguably important to the economic productivity of an economy (Nathan Rosenberg and L. E. Birdzell 1986; Ronald Coase 1992; North 1994; Brian Levy and Pablo Spiller 1994; Mancur Olson 1996; Witold Henisz 1998) cumu- lative change of a progressive kind is very difficult to orchestrate. Massive discontent-civil wars (the Glorious Revolution; see North and Barry Wein- gast 1989), or occupations (following World War II), perceived threats (the Meiji Revolution), breakdowns (Eastern Europe and the former Soviet Union), a military coup (Chile), or a financial cri- sis (New Zealand)-will, however, occa- sionally produce a sharp break from es- tablished procedures. Rare windows of opportunity to effect broad reform are thereby opened. Such "defining mo- ments" are nevertheless the exception rather than the rule. At least partly be- cause of our primitive understanding,
+the response to such opportunities is often one of "failure." Absent such a window, major changes in the rules of the game occur on the order of decades or centuries. The European Union, for example, has been "in progress" for fifty years and is still in early stages of development.
+What is often referred to as Positive Political Theory (PPT) is concerned with working out the economic and po- litical ramifications of Level 2 features.
+To be sure, such research also has les- sons for the normative design of better polities. Like the NIE of which it is a part, however, PPT is predominantly an exercise in positive analysis. The object is to better understand how things work-warts and all. The research prod- uct of PPT scholarship has been noth- ing less than auspicious, which has been good for both political science and the NIE.
+Much of the economics of property rights is of a Level 2 kind. Such re- search flourished in the 1960s. A strong version of the argument is that "a pri- vate-enterprise system cannot function
+properly unless property rights are cre- ated in resources, and, when this is done, someone wishing to use a re- source has to pay the owner to obtain it. Chaos disappears; and so does the gov- ernment except that a legal system to define property rights and to arbitrate disputes is, of course, necessary" (Coase 1959, p. 12; emphasis added). Once property rights have been defined and their enforcement assured, the govern- ment steps aside. Resources are allo- cated to their highest value as the marvel of the market works its wonders.
+This compact statement illustrates both the strength and the weakness of the property rights literature. The great strength of this literature is that it brings property rights to the forefront, where they belong, whereupon novel
+This content downloaded from 154.59.124.250 on Wed, 13 Dec 2023 10:47:50 +00:00
+All use subject to https://about.jstor.org/terms
+Williamson: The New Institutional Economics 599
+property rights reasoning could be brought to bear in informative ways (Armen Alchian 1961, 1965; Coase 1959, 1960; Harold Demsetz 1967). The weakness is that it overplayed its hand. The claim, for example, that the legal system will eliminate chaos upon defin- ing and enforcing property rights as- sumes that the definition and enforce- ment of such rights is easy (costless). Plainly, many transactions do not qual- ify (Coase 1960). Going beyond the rules of the game (property) to include the play of the game (contract) was needed. That is the opening through which the governance of contractual
+relations walked in during the 1970s. This brings me to the third level, which is where the institutions of gover- nance are located. Although property
+remains important, a perfectly function- ing legal system for defining contract laws and enforcing contracts is not con- templated. Costless court ordering be- ing a fiction, much of the contract man- agement and dispute settlement action is dealt with directly by the parties- through private ordering. The need to come to terms with contract laws (plu- ral), rather than an all-purpose law of contract (singular), is posed (Clyde Summers 1969; Ian Macneil 1974). The governance of contractual relations becomes the focus of analysis.
+John R. Commons prefigured this work with his observation that "the ulti- mate unit of activity . . . must contain in itself the three principles of conflict,
+mutuality, and order. This unit is a transaction" (1932, p. 4). Not only does transaction cost economics subscribe to the idea that the transaction is the basic unit of analysis, but governance is an ef- fort to craft order, thereby to mitigate conflict and realize mutual gains.
+So conceived, a governance structure obviously reshapes incentives. To focus entirely on ex ante incentive alignment,
+however, is a truncated way to study or- ganization-especially if all complex contracts are unavoidably incomplete and if adaptation is the central problem of economic organization (Chester Bar- nard 1938; Friedrich Hayek 1945). Mov- ing beyond the agency theory tradition of ex ante incentive alignment, transaction cost economics turns its attention-ad- ditionally and predominantly-to the ex post stage of contract.
+This entails four moves: (1) to name and explicate the principal dimensions with respect to which transactions differ (thereby to uncover differential adap- tive needs); (2) to name and explicate the principal attributes for describing governance structures (where each is defined by a distinctive syndrome of re- lated attributes, whence markets, hy- brids, firms, regulation, bureaus, non- profits, etc. differ in discrete structural ways); (3) to effect a discriminating match, according to which transactions are aligned with governance structures so as to promote adaptation of autonomous and cooperative kinds; and (4) to ascer- tain whether the predicted alignments are corroborated by the data.
+The canonical problem for dealing with these issues is that of vertical inte- gration, which is the issue posed by Coase in his classic 1937 article on "The
+Nature of the Firm." As it turns out, any issue that arises as or can be refor- mulated as a contracting issue can be examined to advantage in transaction cost economizing terms. A huge num- ber of phenomena turn out to be con- tractual variations on a common theme. What I refer to as second-order econo- mizing get the governance structures right is realized at Level 3. The possi- ble reorganization of transactions among governance structures is re-examined periodically, on the order of a year to a decade, often at contract renewal or equipment renewal intervals.
+This content downloaded from 154.59.124.250 on Wed, 13 Dec 2023 10:47:50 +00:00
+All use subject to https://about.jstor.org/terms
+600 Journal of Economic Literature, Vol. XXXVIII (September 2000)
+Such discrete structural analysis of governance is to be distinguished from the fourth level, which is the level at which neoclassical analysis works. Opti- mality apparatus, often marginal analy- sis, is employed, and the firm, for these purposes, is typically described as a pro- duction function. Adjustments to prices and output occur more or less continu- ously. Agency theory, which emphasizes ex ante incentive alignment and effi- cient risk bearing, rather than ex post governance, nonetheless makes provi- sion for nonneoclassical complications, of which multi-tasking is one (Bengt Holmstrom and Paul Milgrom 1991).
+Indeed, a still earlier (zero level) of analysis warrants remark: an evolution- ary level in which the mechanisms of the mind take shape (Steven Pinker 1997). The application of these ideas to economics even now is beginning to reshape our understanding of human actors. Our evolutionary psychologist and cognitive science colleagues are vital to the exercise.
+Finally, I should call attention to technology. As compared with techno- logical innovation, the study of orga- nizational innovation has been compara- tively neglected. The NIE has attempted to rectify that-the idea being that "truly among man's innovations, the use of organization to accomplish his ends is among both his greatest and his earli- est" (Arrow 1971, p. 224). We cannot fail, however, to be awed by the pro- found importance of technological inno- vation (Robert Fogel 1999). Inasmuch as these two work in tandem, we need to find ways to treat technical and or- ganizational innovation in a combined manner.
+3. Good Ideas
+The new institutional economics had its origins in good critics of orthodoxy
+who believed that institutions were both important and susceptible to analysis. Feeling expansive, I would in- clude six Nobel Laureates among the key figures: Kenneth Arrow, Friedrich Hayek, Gunnar Myrdal, Herbert Simon, Ronald Coase, and Douglass North- the last two being the first two presi- dents of ISNIE. But there are others. Armen Alchian has been an influential figure. So too has been research on or- ganization theory, especially at Carnegie (some of it prefigured by earlier work by Chester Barnard)-where the names of Richard Cyert and James March join that of Simon. Alfred Chandler's pio- neering work in business history was also pathbreaking. Thoughtful contribu- tors from the law, especially contract law, include Karl Llewellyn, Stewart Macaulay, Lon Fuller, and Ian Macneil. John R. Commons also brought original and important ideas to the study of in- stitutional economics. The German His- torical School was also concerned with related ideas (Erik Furubotn and Rudolf Richter 1997, pp. 34-35).
+Among the key good ideas that I associate with the NIE are these:
+Human Actors. If "nothing is more fundamental in setting our research agenda and informing our research methods than our view of the nature of the human beings whose behavior we are studying" (Simon 1985, p. 303), then social scientists should be pre- pared to name the key attributes of hu- man actors. Both the condition of cog- nition and self-interestedness need to be addressed.
+There is close to unanimity within the NIE on the idea of limited cognitive competence-often referred to as bounded rationality. Mind being a scarce resource, cognitive specialization has economizing consequences. Also, given cognitive limits, the complex con- tracts to which I referred earlier are
+This content downloaded from 154.59.124.250 on Wed, 13 Dec 2023 10:47:50 +00:00
+All use subject to https://about.jstor.org/terms
+Williamson: The New Institutional Economics 601
+unavoidably incomplete. But while there is near-unanimity that complete contin- gent claims contracting is impossible, the appropriate way to model incom- plete contracts remains controversial. Lack of agreement on the definition and operational import of bounded rationality is a major obstacle (Ariel Rubinstein 1998; David Kreps 1999).
+Contractual incompleteness poses added problems when paired with the condition of opportunism-which mani- fests itself as adverse selection, moral hazard, shirking, subgoal pursuit, and other forms of strategic behavior. Be- cause human actors will not reliably dis- close true conditions upon request or self-fulfill all promises, contract as mere promise, unsupported by credible commitments, will not be self-enforcing.
+flict, mutuality, and order to which I referred earlier-is centrally implicated.
+Feasibility. Students of the NIE es- chew hypothetical ideals-which work off of omniscience, benevolence, zero transaction costs, full credibility, and the like-and deal instead with feasible organizational alternatives, all of which are flawed. Coase (1964) and Demsetz (1969) were among the first to take ex- ception with the asymmetric standards that were once used in the "market fail- ure" literature-according to which markets are beset with failures whereas "omniscient, omnipotent, benevolent" governments (Avinash Dixit 1996, p. 8) would reliably administer efficacious remedies. As we all should have recog- nized (but needed to be told), all feasi- ble forms of organization-government included-are flawed.4
+What I have referred to as the reme- diableness criterion is intended to rec- tify this asymmetric state of affairs. This criterion holds that an extant mode of organization for which no superior fea-
+But for opportunism, the courts
+would simply ask witnesses to "tell us
+what you know that is germane to our
+decision." That is not, however, the way
+that testimony is taken. Witnesses are
+required to take an oath to "tell the
+truth, the whole truth, and nothing butsitbhle alternative can be described and
+truth": don't lie; don't conceal; don't mislead. Inasmuch, moreover, as oaths are not self-enforcing, penalties for per- jury remind witnesses that prevarication has consequences.
+Still a third attribute of human actors warrants remark, and that is the capac- ity for conscious foresight. Indeed, as Richard Dawkins observes, it is the "ca- pacity to simulate the future in imagina- tion . . . [that saves] us from the worst consequences of the blind replicators" (1976, p. 200). Parties to a contract who look ahead, recognize potential hazards, work out the contractual rami- fications, and fold these into the ex ante contractual agreement obviously enjoy advantages over those who are myopic or take their chances and knock on wood. The governance of contractual relations-the Commons triple of con-
+implemented with expected net gains is presumed to be efficient.
+To be sure, public policy analysis be- comes more complicated when analysts can no longer condemn extant modes because they deviate from a hypotheti- cal ideal, full stop. The remediableness criterion presses the public policy ana-
+lyst to display a superior feasible alter- native. If, moreover, a proposed feasi- ble alternative cannot be costlessly implemented, then the costs of imple- mentation are appropriately included in the net benefit calculus-which has ma- jor ramifications for the path depen- dency literature. Finally, grounds for rebutting the efficiency presumption need to be addressed-which brings in
+4 Dixit (1996) counsels the older public finance tradition to come to terms with government fail- ures.
+This content downloaded from 154.59.124.250 on Wed, 13 Dec 2023 10:47:50 +00:00
+All use subject to https://about.jstor.org/terms
+602 Journal of Economic Literature, Vol. XXXVIII (September 2000) A (Unassisted market)
+h=O
+*S ~~~~~~~~~~s =0/
+B (Unrelieved hazard)
+h>O>O
+\ / ~~~~~~~~markt safeguard
+\administrative
+Figure 2. Simple Contracting Schema
+politics (Williamson 1996, 1999). Ab- sent rebuttal, the remediableness crite- rion stands as a reminder of the obvi- ous: it is impossible to do better than one's best.
+Firms and Bureaus. In addition to the nature of the human beings to which Si- mon referred, we need also to be self- conscious about the "Nature of the Firm," which was the title of Coase's classic
+1937 article from which the NIE draws much of its inspiration. Arrow speaks to the fundamental importance of the the- ory of the firm, and to long-standing misconceptions thereof, as follows: "Any standard economic theory, not just neo- classical, starts from the existence of firms. Usually, the firm is a point or at any rate a black box. . . . But firms are palpably not points. They have internal structure. This internal structure must arise for some reason" (1999, p. vii).
+The need was to get beyond the ana-
+lytically convenient (and sometimes adequate) conception of the firm-as- production function (which is a techno- logical construction) to consider the firm as a governance structure (which is an organizational construction) in which internal structure has economic pur- pose and effect. More generally, the need was to identify and explicate the properties of alternative modes of gover- nance-spot markets, incomplete long term contracts, firms, bureaus, etc.- which differ in discrete structural ways. Because each generic mode of gover- nance possesses distinctive strengths and weaknesses, there is a place for each yet each needs to be kept in its place. The logic of discriminating alignment to which I referred earlier applies.
+In a heuristic way, the choice of governance structure moves from mar- ket to hierarchy through the sequence of moves shown in Figure 2 (where h
+This content downloaded from 154.59.124.250 on Wed, 13 Dec 2023 10:47:50 +00:00
+C (Credible commitment)
+D (Integration)
+All use subject to https://about.jstor.org/terms
+Williamson: The New Institutional Economics 603
+denotes contractual hazards and s de- notes safeguards).5 This can be inter- preted as a move from simple to com- plex. We thus begin with autonomous contracting, which is the ideal transac- tion in both law and economics: "sharp in by clear agreement; sharp out by clear performance" (Macneil 1974, p. 738). This discrete transaction para- digm comes under strain as contractual hazards appear. The inability of courts, for example, to verify what is common knowledge between the parties to an ex- change (Williamson 1975, p. 30) could induce a move from interfirm to in- trafirm organization. Other sources of contractual hazard include bilateral de- pendency (by reason of nonredeploy- able assets), weak property rights (es- pecially intellectual property rights), undisclosed quality, health, and safety hazards, failures of probity, and the like. Such hazards compromise contractual integrity and give rise to contractual im- passes, maladaptations, and investment distortions. Here, as elsewhere, ineffi- ciency invites relief. Cost-effective haz- ard mitigation through added governance ensues.
+Moving from less to more complex governance entails introducing added security features, reducing incentive in- tensity, and incurring added bureau- cratic costs. Moving from simple (dis- crete) contracts to complex (incomplete long term) contracts is thus attended by a whole series of features: the length of the contract increases, penalties to de- ter breach are introduced, provision is made for added information disclosure and processing, and specialized dispute settlement mechanisms appear.
+Additional mechanisms, to include the use of hierarchy to effect coordi- nation and decide disputes by fiat, are
+5 A variant of Figure 2 originally appeared in my paper on "Public and Private Bureaucracies" (1999).
+introduced when transactions are re- moved from the market and placed un- der unified ownership (the firm). Be- cause added compliance and security features always come at a cost, more complex modes of governance are re- served for those transactions for which contractual hazards are especially difficult.
+The public bureau, in this scheme of things, can be thought of as the organi- zation form of last resort: try spot mar- kets, try incomplete long-term con- tracts, try firms, try regulation, and reserve recourse to public bureaus for when all else fails (comparatively). Note that the common practice of condemn- ing public bureaus because they have lower-powered incentives, more rules and regulations, and greater job secu- rity than a counterpart firm completely misses the point. These features have been deliberately crafted into the pub- lic bureau, thereby to make it better suited to govern some (especially diffi- cult) transactions.6 Vigilance is none- theless needed-lest the public bureau be "overused."
+If transaction cost economics works out of variations on a few key themes, then this schema, which was initially devised to help explicate the gover- nance of contractual relations in inter- mediate product market transactions, should also apply, with variation, to other classes of transactions. It does.
+The four nodes are interpreted with reference to intermediate product transactions above. Consider final goods markets and government procurement transactions.
+Transactions in final goods markets, where individual consumers are the
+6 This is a recurrent theme not only of the trans- action cost economics literature but also of parts of the agency theory literature. See especially Holmstrom (1989) and Holmstrom and Milgrom (1991, 1994), where the benefits of low-powered incentives in firms are featured.
+This content downloaded from 154.59.124.250 on Wed, 13 Dec 2023 10:47:50 +00:00
+All use subject to https://about.jstor.org/terms
+604 Journal of Economic Literature, Vol. XXXVIII (September 2000)
+buyers, are similar but different. Node A transactions are generic and competi- tively organized. Node B transactions are rare. These correspond to "P. T. Barnum"-there's a sucker born every minute-and other fly-by-night transac- tions. Node C is the credible commit- ment node. Branding in combination with reputation effects and product warranties appear. Also, for some natu- ral monopoly transactions, public utility regulation serves credibility purposes. Node D is a nearly empty set. Econo- mies of scale and of specialization are impediments to own-supply by consum- ers, although collective organization (consumer cooperatives) can be used to manage some transactions. (Many household services can be thought of as own-supply, but few fit comfortably within the schema.)
+Government procurement transac- tions are also similar but different. Node A describes generic transactions to which, often, tedious technical speci- fications apply. Very few government transactions are of a Node B kind. Credibility mechanisms at Node C in- clude the elaborate machinery of "ad- ministered contracting," as with defense procurement (which transactions, how- ever, are sometimes compromised by the shared interests of the government agency and the private supplier). And Node D is the public bureau, where for probity or political reasons the govern- ment chooses to manage the transaction itself.
+Other applications of the schema in- clude the employment relation (James Baron and Kreps 1999, ch. 4) and cor- porate finance (the choice between debt and equity). Some transactions, such as alliances and joint ventures, pose complications of a disequilibrium contracting kind (Williamson 1991) that are beyond the reach of the schema.
+Operationalization. Many good ideas
+are initially expressed as tautologies, which Coase has wryly defined as "a proposition that is clearly right" (1988, p. 19). Because good tautologies expand the mind and are hard to come by, they deserve respect. Lest, however, we slip into the speculations to which Wesley Mitchell once referred7-which is a fate that beset the older style institutional economics as well as the American Le- gal Realism movement-we need to ask what are the mechanisms through which a proposed theory operates and what are the refutable implications.
+The effort to operationalize promis- ing ideas has both theoretical and em- pirical parts. The theoretical often takes the form of a progression from informal to preformal, semi-formal, and fully for- mal modes of analysis-ideally acquir- ing value added in the process. Such an effort helps to sort the sheep from the goats. Nicholas Georgescu-Roegen had a felicitous way of putting it: although the "purpose of science is not predic- tion, but knowledge for its own sake," prediction is nevertheless "the touch- stone of scientific knowledge" (1971, p. 37). Would-be theories for which pre- dictive content is lacking must eventu- ally step aside (be set aside) for those for which the hard work of formalization and empirical testing are undertaken.
+Theory Development. Formalization is vital to a progressive research agenda, but it sometimes comes at a cost. Thus
+although Simon once argued that "mathematical translation is itself a sub- stantive contribution to theory . . . be- cause it permits clear and rigorous rea- soning about phenomena too complex to be handled in words" (1957, p. 89)
+7"Speculative systems can be quickly excogi- tated precisely because they do not require the economist to collect and analyze masses of data, to test hypotheses for conformity to fact, to discard those which do not fit, to invent new ones and test them until, at long last, he has established a factu- ally valid theory" Mitchell 1945, p. 2).
+This content downloaded from 154.59.124.250 on Wed, 13 Dec 2023 10:47:50 +00:00
+All use subject to https://about.jstor.org/terms
+Williamson: The New Institutional Economics 605
+and subsequently asserted that the "poverty of mathematics is an honest poverty that does not parade imaginary riches before the world" (1957, p. 90), provision also needs to be made for the possibility that core features of the the- ory are left out or obscured by the translation. There is, after all, such a thing as prematurely formal theory. Kreps speaks to the issues as follows (1999, p. 122):
+If Markets and Hierarchies has been transla- ted into game theory using notions of infor- mation economics, it is a very poor transla- tion . . . In particular, mathematics-based theory still lacks the language needed to cap- ture essential ideas of bounded rationality, which are central to . . . transaction costs and contractual form. Anyone who relies on the translations alone misses large and valuable chunks of the original.
+What is referred to as the "property rights theory of the firm," which had its origins with Sanford Grossman and Oliver Hart (1986) and has subsequently been developed by Hart and John Moore (hence the reference to the GHM model), relates to but differs significantly from the transaction cost economics setup (as presented, for example, in Williamson 1985, 1991). It is similar in that it deals with the make-or-buy decision through a setup where contracts are incomplete
+(by reason of bounded rationality), mere promise cannot be used to over- come noncontractibility (by reason of opportunism), and parties to the con- tract are bilaterally dependent (by rea- son of asset specificity). These com- monalities notwithstanding, there are also major differences.
+Some of these differences are attrib- utable to simplifications that invariably attend formal modelling. Ideally, core features of the verbal argument and the mechanisms through which they work are made more precise in the process of formalization. Such a case can be made
+for the property rights theory of the firm, which is a major intellectual achievement that has spawned a grow- ing literature on the formal modelling of incomplete contracts.8 As Kreps sug- gests, however, valuable chunks are missing. In the spirit of full disclosure (honest poverty), I focus on these.
+The most consequential difference between the TCE and GHM setups is that the former holds that maladapta- tion in the contract execution interval is the principal source of inefficiency, whereas GHM vaporize ex post maladaptation by their assumptions of common knowledge and costless ex post bargaining. The upshot is that all of the inefficiency in GHM is concentrated in the ex ante investments in human assets (which are conditional on the ownership of physical assets).9
+This shift from ex post maladaptation (the hazards from which vary with the condition of asset specificity and the disturbances to which a transaction is subject) to ex ante investment distor- tions matters. For one thing, GHM makes very limited contact with the datal' whereas (as discussed below) TCE is an empirical success story. Re- lated (ex post) governance and (ex ante) investment differences are the following:
+8 The January 1999 issue of the Review of Eco- nomic Studies is entirely devoted to recent contri- butions, critiques, responses, and extensions upon the GHM model.
+9 Bounded rationality enters this setup in a very peculiar way: parties who are unable to write com- plete contracts ex ante are nevertheless able to an- ticipate ex ante what decisions will be taken ex post, contingent on state realizations (Kreps 1999, pp. 123-25). In effect, the GHM setup is one of selective unbounded rationality: "not everything that is logically consistent is credulous" (Kreps 1999, p. 125).
+10 Tat the data relevant to GHM are so limited and inaccessible explains why there has been "no formal testing of the property rights approach" (Hart 1995, p. 49)-although the "inside contract- ing system" (John Buttrick 1952) is an approxima- tion to (and its failures could be interpreted as a partial contradiction of) GHM.
+This content downloaded from 154.59.124.250 on Wed, 13 Dec 2023 10:47:50 +00:00
+All use subject to https://about.jstor.org/terms
+606 Journal of Economic Literature, Vol. XXXVIII (September 2000)
+(1) The TCE rendition of the make- or-buy decision between succes- sive stages (A and B) asks whether A and B should be separately owned and operated or if the own- ership and operation of these two stages should be unified. If in- dependent, then each stage appro- priates its net receipts (high-pow-
+ered incentives obtain) but maladaptation problems can arise during contract execution. If uni- fied, then the two stages are man- aged coordinately through hierar- chy. (Maladaptation problems are thereby relieved; incentives are lower-powered; and added bureau- cratic costs arise.) By contrast, GHM view vertical integration in a directional way: either A buys B or B buys A, and it matters which way this is done. That is because com- mon ownership under GHM does not imply unified management. In- stead, each stage (in all configura- tions-A and B are independent; A buys B; B buys A) appropriates its net receipts. This last is a very un- usual condition, in that unified ownership is normally thought of as a means by which to effect cooperation.11
+(2) TCE maintains that each generic mode of governance-spot market, incomplete long-term contract, firm, bureau, etc.-is defined by a syndrome of attributes to which distinctive strengths and weak- nesses accrue. Specifically, TCE holds that alternative modes differ in incentive intensity, administra- tive controls (to include auditing, accounting, and transfer pricing), access to the courts, and informal organization (to include politick-
+11 The inside contracting system referred to in note 7 supra is in the spirit of GHM organization.
+ing). GHM assume that incentive intensity, administrative controls, and informal organization are un- changed by ownership and that courts are irrelevant (because of costless renegotiation). None of the physical asset utilization and transfer pricing distortions that I associate with the "impossibility of selective intervention" (Williamson 1985, pp. 135-40) thus occur under the GHM setup.
+(3) TCE examines a wide range of ex post devices for infusing credible commitments into contracts and applies this reasoning to a wide set of transactions. Variations on this theme include hybrid modes of or- ganization (Scott Masten 1996, Part III), exchange agreements and other uses of hostages to sup- port exchange, the organization of work, the organization of labor and human resources more generally, corporate governance, regulation
+(and deregulation), public bu- reaus, and project financing. Be- cause GHM is a property rights and property rights only construc- tion (Holmstrom 1999), it relates to some of these issues not at all and others very selectively (Hart 1995; Hart, Andrei Shleifer, and Robert Vishny 1997)..
+GHM is nonetheless a pathbreaking contribution and has set the formal modelling of incomplete contracting in motion. New formal models of incom- plete contracts which are closer in spirit to TCE include the treatment of pro- curement by Patrick Bajari and Steven Tadelis (1999), which focuses on the in- centive and ex post adaptation differ- ences between fixed price and cost plus contracting. Also, the recent paper by Susheng Wang and Tian Zhu (2000) employs the idea that alternative modes
+This content downloaded from 154.59.124.250 on Wed, 13 Dec 2023 10:47:50 +00:00
+All use subject to https://about.jstor.org/terms
+Williamson: The New Institutional Economics 607
+of governance work out of different contract law regimes (Williamson 1991). And Gene Grossman and Elhanan Help- man (1999) appeal to the added bureau- cratic costs of unified as compared with market governance in their assessment of alternative modes for producing dif- ferentiated consumer products. More veridical treatments of incomplete con- tracting are thus in progress and still more are in prospect.12
+Empirical. Some scoff at prediction, evidently in the belief that prediction is easy. Also, since everyone knows that "it is easy to lie with statistics," what useful purpose is served by empirical testing? My experience is different: pre- diction is a demanding standard, which is why so many would-be theories re- main excogitated speculations; and cor- roboration is difficult, which explains why few predictions are tested.
+Because, however, good theories are rarely fully developed at the outset, the theory and the evidence are often inter- active. As Alan Newell observes (1990, p. 14):
+Theories cumulate. They are refined and re- formulated, corrected and expanded. Thus, we are not living in the world of Popper.... [Theories are not] shot down with a falsifica- tion bullet. . . . Theories are more like gradu- ate students-once admitted you try hard to avoid flunking them out.... Theories are things to be nurtured and changed and built up.
+Good but underdeveloped ideas are evidently like good but underdeveloped minds: both are precious things. Be- cause development is costly, promising theories, like promising graduate stu- dents, are admitted only if they cross a threshold. Once admitted, theories (and
+12 For an earlier formal treatment (of a reduced form kind) akin to Bajari and Tadelis, see Michael Riordan and Williamson (1985). The recent paper by Hart and Moore, "On the Design of Hierar- chies" (1999a), also makes express provision for organization.
+graduate students) are progressively built up-moving from less formal to more formal stages of development. Fi- nally, as with promising graduate stu- dents, we do not hold on to cherished theories indefinitely: some do flunk out. Specifically, theories that remain tauto- logical or yield predictions that are con- tradicted by the data must make way for theories that yield predictions for which the data are corroborative.
+Empirical applications of transaction cost economics got under way in the U.S. in the 1980s and have grown expo- nentially since: the number of pub- lished studies exceeds 500 and involves social scientists in Europe, Japan, India, China, Mexico, South America, Austra- lia, New Zealand, and the list goes on. It could have been otherwise, but the theory and evidence display a remark- able congruity (Scott Masten 1995, p. xi). Recent empirical surveys include Howard Shelanski and Peter Klein
+(1995), Bruce Lyons (1996), Keith Crocker and Masten (1996), and Aric Rindfleisch and Jan Heide (1997).
+Not only has this research been broadly corroborative of the predictions of transaction cost economics, but the importance of risk aversion to commer-
+cial contracting has been placed in doubt (Douglas Allen and Dean Lueck 1999). To be sure, transaction cost eco- nomics, like everything else, will bene- fit from more and better empirical work. I have no hesitation, however, in declaring that the NIE is an empirical success story. Paul Joskow concurs: "this empirical work is in much better shape than much of the empirical work in industrial organization generally" (1991, p. 81). Those who have done this modest, slow, molecular, definitive work deserve enormous credit.13
+13 The recurring regularity is this: more complex modes of governance appear as contractual haz- ards build up-where bilateral dependency, due
+This content downloaded from 154.59.124.250 on Wed, 13 Dec 2023 10:47:50 +00:00
+All use subject to https://about.jstor.org/terms
+608 Journal of Economic Literature, Vol. XXXVIII (September 2000)
+4. Phenomena
+The NIE is predominantly concerned with Levels 2 and 3 of the four levels of social analysis shown in Figure 1. These are the levels of the institutional envi- ronment and the institutions of gover-
+nance, respectively. Between them, they cover a lot of ground.
+The formal features of the institu- tional environment-the laws, polity, judiciary, bureaucracy-are crucial in examining the development of nation states (North and Weingast 1989) and for making intertemporal comparisons within and cross-national comparisons between nation states. Indeed, this last has come to be a growth industry to which many economists who are only slightly associated with the NIE have made contributions. It is nonetheless noteworthy that the NIE has done much of the pioneering work in this area.
+To repeat, any issue that arises as or can be posed as a contractual issue can be examined to advantage in transaction cost economizing terms. Examples for which contractual issues are evident at the outset include contracts for inter- mediate products, for labor, for final goods and services, for the rental or lease or purchase of land, equipment, and buildings, for professional services, for marriage, and the list goes on. Even, moreover, if contractual features are not immediately evident from the out- set, many issues can be reformulated so as to disclose their contractual qualities, the choice between debt and equity,
+to asset specificity in any of its forms (physical, human, site-specific, dedicated assets, brand, and temporal), in combination with disturbances that beset contracts during the contract execution in- terval are responsible for many of these hazards. Working, as it does, out of noncontractible human asset investment distortions, GHM cannot lay claim to these same empirical successes (Michael Whinston 1997; Holmstrom 1999).
+the oligopoly problem,14 and the multi- national corporation being examples (Peter Buckley and Mark Casson 1976; Hubert Gatignon and Erin Anderson 1988).
+Many public policy issues, moreover, turn jointly on the combined use of Level 2 and Level 3 reasoning. In the area of privatizing telecommunications, for example, Levy and Spiller examine the institutional environments in five countries through a comparative con- tractual lens in which issues of credible contracting are featured (1994, 1996). The recent study of reforming urban water systems by Claude Menard and Mary Shirley (1999) likewise makes clear that ownership is not determina- tive but needs to be examined in con- junction with the support, or the lack thereof, of the mechanisms of gover- nance. Again, issues of credible contract- ing are salient. The same is true of com- mercial contracting in Vietnam (John McMillan and Christopher Woodruff 1999).
+Broad reach notwithstanding, the NIE is not and does not pretend to be an all-purpose construction, as the re- form of economies of Eastern Europe and the former Soviet Union illustrate. Thus Coase in his Nobel Prize lecture observed that (1992, p. 714):
+The value of including . . . institutional fac- tors in the corpus of mainstream economics is made clear by recent events in Eastern Europe. These ex-communist countries are advised to move to a market economy, and their leaders wish to do so, but without the appropriate institutions no market economy of any significance is possible. If we knew more about our own economy, we would be in a better position to advise them.
+Two years later, North, in his Nobel Prize lecture, expressed similar precautions.
+14 Of the various ways in which it can be posed, its contractual nature becomes more evident when it is posed as a problem of reaching and enforcing a cartel agreement (Williamson 1975, Chap. 12).
+This content downloaded from 154.59.124.250 on Wed, 13 Dec 2023 10:47:50 +00:00
+All use subject to https://about.jstor.org/terms
+Williamson: The New Institutional Economics 609
+Thus even if we are confident that "poli-
+ties significantly shape economic perfor-
+mance because they define and enforce
+the economic rules," whereupon "an es-
+sential part of development policy is the
+creation of polities that will create and
+enforce efficient property rights," there is(1986), which views ownership as a sys- the further problem that "we know very
+little about how to create such polities" (North 1994, p. 366).
+Real-time events, however, cannot be put on hold. Hard choices have to be made. Economic reform in Russia is an example.
+The team of Maxim Boycko, Andrei Shleifer, and Robert Vishny responded to the perceived need to give shape to the reform with the recommendation that the Russian economy should be privatized quickly and massively. Con- siderations of both Realpolitik and eco- nomic theory were invoked in support of this recommendation.
+tem of control rights and treats the ap- propriate assignment of property rights as determinative (Boycko, Shleifer, and Vishny 1995, p. 13). Upon privatizing state-owned enterprises, therefore, ef- fective restructuring by the new stake- holders would presumably follow (op cit, p. 150). In the confidence that the future would take care of itself, the mass privatization program that was be- gun in the spring of 1992 had purport- edly reached a "triumphant completion" in June 1994 (op cit, p. 8), by which date two-thirds of Russian industry was privately owned.
+Had the Boycko et al. team consulted the new institutional economics, a more cautious and selective program of priva- tization with greater attention to imple-
+There being widespread agreement that
+"political influence over economic life
+was the fundamental cause of economic
+inefficiency" [in Russia], Boycko, Shleifer,mentation would have resulted. Consider and Vishny (1995, p. 11) declared that: first the literature on franchise bidding
+. . .the principal objective of reform was . . . for natural monopoly, where the prop-
+to depoliticize economic life. . . . Privatiza- tion fosters depoliticization because it de- prives politicians of the opportunity to allo- cate goods. . . . The goal of privatization was to sever the links between enterprise manag- ers and politicians. . . . There was no other way to achieve restructuring and efficient operation of firms.
+The two strategic actors in this re- form program were the official bureauc- racy, which was viewed as "the enemy to be fought at all costs" and the stake- holders-managers, employees, and lo- cal governments. The Boycko et al. team "consistently and generously rec- ognized stakeholders' claims, and thus ensured their eventual support of priva- tization" (Boycko, Shleifer, and Vishny 1995, pp. 13-14).
+erty rights approach and the gover- nance approach reach very different conclusions.
+The property rights approach to the problem of -natural monopoly is to con- duct an ex ante bidding competition and award the right to serve the market to the group that tenders the best bid
+(Demsetz 1968; George Stigler 1968; Richard Posner 1972). Very much in the spirit of Boycko et al., the future will take care of itself once the assets have been privatized in this way.
+That sanguine view does not with- stand scrutiny if serious ex post imple- mentation problems are in prospect. Under the governance approach, the award of a monopoly franchise needs to be assessed comparatively. This entails
+This content downloaded from 154.59.124.250 on Wed, 13 Dec 2023 10:47:50 +00:00
+This political prescription for massive and rapid privatization was reinforced by the economic theory of the firm on which the Boycko et al. team relied. Specifically, they appealed to the afore- mentioned work by Grossman and Hart
+All use subject to https://about.jstor.org/terms
+610 Journal of Economic Literature, Vol. XXXVIII (September 2000)
+looking ahead and uncovering ex post contractual hazards, thereafter working out the ramifications for alternative modes of governance (Williamson 1976, pp. 79-91). Because franchise bidding works much better for some natural mo- nopoly industries than others (William- son 1976, pp. 102-103), the use of fran- chise bidding will be reserved for those industries where comparative net bene- fits can be projected-but not other- wise. Privatization, it turns out, is not an all-purpose solution (Victor Goldberg 1976; George Priest 1993).
+Although privatizing an entire econ- omy is a much more ambitious undertak- ing than privatizing a natural monopoly industry, the key lessons nevertheless carry over. Specifically, privatizing needs to go beyond the ex ante award stage to include an examination of possible ex post implementation problems and, in consideration of the differential hazards, to proceed selectively.
+Recall, moreover, that the NIE oper- ates at two levels. Upon moving from the level of governance to that of the institutional environment, the rules of the game come under review. The Levy and Spiller (1994, 1996) study of priva- tizing telecommunications in five coun- tries reveals that the decision to priva- tize and the nature of privatization turn critically on the condition and quality of judicial independence, the division of powers between the executive and leg- islative branches, the competence of the regulatory bureaucracy, and con- tractual safeguards. Whether and how to privatize telecommunications should therefore be made conditional on these features.
+As Bernard Black, Reinier Kraakman, and Anna Tarassova detail in their pa- per on "Russian Privatization and Cor- porate Governance: What Went Wrong" (1999), the "triumphant completion" of privatization in Russia was a premature
+verdict. Thus, although privatization was evidently a success for small firms, it was deeply problematic and attended by massive corruption in others. But for undue reliance on ex ante property rights reasoning, some of these problems could have been anticipated by looking ahead and examining the hazards of ex post implementation. Greater apprecia- tion for the shortfalls of the institutional environment in Russia would have led to more cautious pronouncements (Anders Aslund 1995). Whether added respect for the rules of the game (to include an appreciation for the limited efficacy of Russian law enforcement) would have resulted in rule improvements in Russia could be disputed. Arguably, however, the effort to reform Russia would have proceeded in a more modest, slow, molecular, deliberative way.
+None of this is to suggest that the NIE could have done it all. The Boycko et al. team made heroic efforts. My claim is much more modest: the NIE is informative and should be included as part of the reform calculus.
+5. Concluding Remarks
+The new institutional economics is a boiling cauldron of ideas. Not only are there many institutional research pro- grams in progress, but there are com- peting ideas within most of them. With reference to history, for example, we see North (1990) and Avner Greif (1999) pursuing complementary but separate agendas. The institutions of embedded- ness (Level 1) are an important but un- derdeveloped part of the story. Within transaction cost economics we distin- guish between governance and measure- ment branches. The attributes of mixed ownership modes (alliances, joint ven- tures, franchising, and the like) as well as the mechanisms for supporting cred- ible contracting between autonomous
+This content downloaded from 154.59.124.250 on Wed, 13 Dec 2023 10:47:50 +00:00
+All use subject to https://about.jstor.org/terms
+Williamson: The
+New Institutional Economics 611
+firms are incompletely worked out. In- complete contracting of semi-formal and fully formal kinds differ in conse- quential ways, although the gap has been closing. Evolutionary economics of selectionist, population ecology, and ontogenetic kinds are in progress. Path dependency is a real and important con- dition, but its interpretation is actively disputed. The merits of privatization are real but are not uniform and need to be assessed with reference to both the rules of the game and the play of the game. The firm is variously de- scribed in technological, contractual, and competence/ knowledge-based per- spectives. How best to describe human actors is still unsettled, although evolu- tionary psychology holds promise. Poli- tics is judged with reference to a hypo- thetical ideal by some (North 1990) and in comparative institutional terms by others (Williamson 1999). Efficiency ar- guments have mainly prevailed over power interpretations because the latter are tautological, but power issues refuse to go away. Bureaucracy remains a poorly understood condition no matter what lens is brought to bear. Private or- dering approaches to contract have made progressive headway, but legal rules remain important and their rela- tion to private ordering is incompletely worked out. Positive political theory has made major conceptual advances, but an overarching understanding of poli- ties does not appear imminent. And the list goes on.
+The upshot is that, its many accom- plishments notwithstanding, there is a vast amount of unfinished business-re- finements, extensions, new applications, more good ideas, more empirical test- ing, more fully formal theory. I con- clude that the new institutional eco- nomics is the little engine that could. Its best days lie ahead. Who could ask for more?
+REFERENCES
+Alchian, Armen. 1961. "Some Economics of Prop- erty," RAND Corporation D-2316.
+Allen, Douglas, and Dean Leuck. 1999. "The Role of Risk in Contract Choice," J. Law Econ. Org. 15:3, pp. 704-36.
+Arrow, Kenneth J. 1971. Essays in the Theory of Risk-Bearing. Chicago: Markham.
+. 1987. "Reflections on the Essays," in Ar- row and the Foundations of the Theory of Eco- nomic Policy. George Feiwel, ed. NY: NYU Press, pp. 727-34.
+. 1999. "Foreword" in Firms, Markets and Hierarchies. Glenn Carroll and David Teece, eds. NY: Oxford U. Press, pp. vii-viii.
+Aslund, Anders. 1995. How Russia Became a Mar- ket Economy. Washington, DC: Brookings Insti- tution.
+Bajari, Patrick and Steven Tadelis. 1999. "Incen- tives versus Transaction Costs," unpublished paper, Stanford U.
+Banfield, E. C. 1958. The Moral Basis of a Back- ward Society. NY: Free Press.
+Barnard, Chester. 1938. The Functions of the Ex- ecutive. Cambridge, MA: Harvard U. Press.
+Baron, James and David Kreps. 1999. Strategic Human Resources. NY: John Wiley & Sons.
+Black, Bernard; Reinier Kraakman, and Anna Tarassova. 1999. "Russian Privatization and Corporate Governance: What Went Wrong?" unpublished manuscript, Stanford Law School.
+Boorstin, Daniel. 1998. The Seekers. NY: Random House.
+Boycko, Maxim; Andrei Shleifer, and Robert Vishny. 1995. Privatizing Russia. Cambridge, MA: MIT Press.
+Buckley, Peter and Mark Casson. 1976. The Fu- ture of the Multinational Enterprise. London: Holmes and Meier.
+Buttrick, John. 1952. "The Inside Contracting Sys- tem," J. Econ. Hist. 12:3, pp. 205-21.
+Coase, Ronald. 1937. "The Nature of the Firm," Economica, 4:6, pp. 386-405.
+. 1959. "The Federal Communications Commission," J. Law Econ. 2:2, pp. 1-40.
+. 1960. "The Problem of Social Cost," J. Law Econ. 3, pp. 1-44.
+. 1964. "The Regulated Industries: Discus- sion," Amer. Econ. Rev. 54:3, pp. 194-97.
+. 1988. The Firmn, the Market, and the Law. Chicago: U. Chicago Press.
+. 1992. "The Institutional Structure of Pro- duction," Amer. Econ. Rev. 82:4, pp. 713-19.
+Commons, John R. 1932-33. "The Problems of Correlating Law, Economics and Ethics," Wisc. Law Rev. 8:1, pp. 3-26.
+Crocker, Keith and Scott Masten. 1996. "Regula- tion and Administered Contracts Revisited: Lessons from Transaction Cost Economics for Public Utility Regulation," J. Regulatory Econ. 9:1, pp. 5-39.
+Dawkins, Richard. 1976. The Selfish Gene. NY: Oxford U. Press.
+This content downloaded from 154.59.124.250 on Wed, 13 Dec 2023 10:47:50 +00:00
+All use subject to https://about.jstor.org/terms
+612 Journal of Economic Literature, Vol. XXXVIII (September 2000)
+Demsetz, Harold. 1967. "Toward a Theory of Hayek, Friedrich. 1945. "The Use of Knowledge Property Rights," Amer. Econ. Rev. 57:2, pp. in Society," Amer. Econ. Rev. 35:4, pp. 519- 347-59. 30.
+. 1968. "Why Regulate Utilities?" J. Law Econ. 11, pp. 55-66.
+. 1969. "Information and Efficiency: An- other Viewpoint," J. Law Econ. 12: 1, pp. 1-22.
+DiMaggio, Paul. 1994. "Culture and Economy," in The Handbook of Economic Sociology. Neil Smelser and Richard Swedberg, eds. Princeton: Princeton U. Press.
+Dixit, Avinash. 1996. The Making of Economic Pol- icy: A Transaction Cost Politics Perspective. Cambridge: Cambridge U. Press.
+Elster, Jon. 1994. "Arguing and Bargaining in Two Constituent Assemblies," unpublished manu- script.
+Fogel, Robert. 1999. "Catching Up with the Econ- omy," Amer. Econ. Rev. 89:1, pp. 1-21.
+Furubotn, Erik and Rudolf Richter. 1991. "The New Institutional Economics: An Assessment," in The New Institutional Economics. Furubotn and Richter, eds. College Station, TX: Texas A&M U. Press.
+. 1997. Institutions and Economic Theory. Ann Arbor: U. Michigan Press.
+Gatignon, Hubert and Erin Anderson. 1988. "The Multinational Corporation's Degree of Control over Foreign Subsidiaries: An Empirical Test of a Transaction Cost Explanation," J. Law Econ. Org. 4:2, pp. 305-36.
+Georgescu-Roegen, Nicholas. 1971. The Entropy Law and Economic Process. Cambridge, MA: Harvard U. Press.
+Goldberg, Victor. 1976. "Regulation and Adminis- tered Contracts," Bell J. Econ. 7:2, pp. 426- 52.
+Henisz, Witold. 1998. "The Institutional Environ- ment for International Investment," unpub- lished Ph.D. dissertation, UC Berkeley.
+Holmstrom, Bengt. 1989. "Agency Costs and Inno- vation," J. Econ. Behav. Organ. 12:3, pp. 305- 27.
+. 1999. "The Firm as a Subeconomy," J. Law Econ. Org. 15:1, p. 74-102.
+Holmstrom, Bengt and Paul Milgrom. 1991. "Multi-Task Principal-Agent Analyses: Incen- tive Contracts, Asset Ownership, and Job De- sign," J. Law Econ. Org. 7: Special Issue, pp. 24-52.
+. 1994. "The Firm as an Incentive System," Amer. Econ. Rev. 84:4, pp. 972-91.
+Huntington, Samuel P. 1996. The Clash of Civili- zations and the Remaking of World Order. NY: Simon and Schuster.
+Joskow, Paul. 1991. "The Role of Transaction Cost Economics in Antitrust and Public Utility Regu- latory Policies," J. Law Econ. Org. 7: Special Issue, pp. 53-83.
+Kreps, David M. 1999. "Markets and Hierarchies and (Mathematical) Economic Theory," in Firms, Markets, and Hierarchies. Glenn Carroll and David Teece, eds. NY: Oxford U. Press, pp. 121-55.
+Levy, Brian and Pablo Spiller. 1994. "The Institu- tional Foundations of Regulatory Commit- ment," J. Law Econ. Org. 10:2, pp. 201-46.
+-. 1996. Regulations, Institutions, and Com- mitment: Comparative Studies of Telecommuni- cations. NY: Cambridge U. Press.
+Lyons, Bruce. 1996. "Empirical Relevance of Effi- cient Contract Theory: Inter-Firm Contracts," Oxford Rev. Econ. Policy, 12:4, pp. 27-52.
+Granovetter, Mark. 1985. "Economic Action and
+Social Structure: The Problem of Embedded-
+ness," Amer. J. Sociology, 91:3, pp. 481-510. Macneil, Ian R. 1974. "The Many Futures of Con-
+Greif, Avner. "Impersonal Exchange and the Ori- gin of Markets: From the Community Responsi- bility System to Individual Legal Responsibility in Pre-Modern Europe," forthcoming in Com- munities and Markets. M. Aoki and T. Hayami, eds.
+Grossman, Gene, and Elhanan Helpman. 1999. "Incomplete Contracts and Industrial Organiza- tion," NBER Working Paper 7303.
+Grossman, Sanford anJ Oliver Hart. 1986. "The Costs and Benefits of Ownership: A Theory of Vertical and Lateral Integration," J. Polit. Econ. 94:4, pp. 691-719.
+Hart, Oliver. 1995. Firms, Contracts, and Finan- cial Structure. NY: Oxford U. Press.
+Hart, Oliver and John Moore. 1999a. "On the De- sign of Hierarchies," unpublished paper, Har- vard U.
+_. 1999b. "Foundations of Incomplete Con- tract," Rev. Econ. Stud. 66:1, pp. 115-38.
+Hart, Oliver; Andrei Shleifer, and Robert Vishny. 1997. "The Proper Scope of Government: The- ory and Application to Prisons," Quart. J. Econ. 112:4, pp. 1127-61.
+tracts," Southern Cal. Law Rev. 47:2, pp. 691-
+816.
+Maskin, Eric and Jean Tirole. 1999. "Unforeseen
+Contingencies and Incomplete Contracts," Rev.
+Econ. Stud. 66:1, pp. 83-114.
+Masten, Scott. 1995. "Introduction To Vol. II," in
+Transaction Cost Economics. Oliver Williamson
+and Scott Masten, eds. Brookfield, VT: Edward Elgar.
+. 1996. Case Studies in Contracting and Or- ganization. NY: Oxford U. Press.
+Matthews, R. C. 0. 1986. "The Economics of In- stitutions and the Sources Of Economic Growth," Econ. J. 96:4, pp. 903-18.
+McMillan, John and Christopher Woodruff. 1999. "Dispute Prevention without Courts in Viet- nam," J. Law Econ. Org. 15:3, pp. 637-58.
+Menard, Claude and Mary Shirley. 1999. "Reform- ing Contractual Arrangements: Lessons from Urban Water Systems in Six Developing Coun- tries," unpublished manuscript.
+Mitchell, W. C. 1945. "The National Bureau's First Quarter-Century," 25th Annual Report, NBER.
+This content downloaded from 154.59.124.250 on Wed, 13 Dec 2023 10:47:50 +00:00
+All use subject to https://about.jstor.org/terms
+Williamson: The New Institutional Economics 613
+Nee, Victor. 1998. "Sources of the New Institu- tionalism," in The New Institutionalism in Soci- ology. Mary Brinton and Victor Nee, eds. NY: Russell Sage, pp. 1-16.
+Newell, Alan. 1990. Unified Theories of Cognition. Cambridge, MA: Harvard U. Press.
+North, Douglass. 1990. "A Transaction Cost The- ory of Politics," J. Theor. Politics, 2:4, pp. 355-67. . 1991. "Institutions," J. Econ. Perspectives,
+5:1, pp. 97-112.
+. 1994. "Economic Performance through
+Time," Amer. Econ. Rev. 84:3, pp. 359-68. North, Douglas and Barry Weingast. 1989. "Con- stitutions and Commitment: The Evolution of Institutions Governing Public Choice in 17th Century England," J. Econ. History, 49:4, pp.
+803-32.
+Olson, Mancur, Jr. 1996. "Big Bills Left on the Side-
+walk: Why Some Nations Are Rich, and Others
+Are Poor," J. Econ. Perspectives, 10:2, pp. 3-24. Pinker, Steven. 1997. How The Mind Works. NY:
+W. W. Norton.
+Posner, Richard. 1972. "The Appropriate Scope of
+Regulation in the Cable Television Industry,"
+Bell J. Econ. 3: 1, pp. 98-129.
+Priest, George. 1993. "The Origins of Utility
+Regulation and the 'Theories of Regulation' De-
+bate," J. Law Econ. 36:1, pp. 289-323.
+Putnam, Robert D.; Robert Leonardi, and Raf- faella Y. Nanetti. 1993. Making Democracy Work: Civic Traditions in Modern Italy. Prince-
+ton: Princeton U. Press.
+Rindfleisch, A. and J. B. Heide. 1997. "Transac-
+tion Cost Analysis: Past, Present, and Future
+Applications," J. Marketing, 61:4, pp. 30-54. Riordan, Michael and Oliver Williamson. 1985. "Asset Specificity and Economic Organization,"
+Int. J. Industrial Org. 3:3, pp. 365-78. Rosenberg, Nathan and L. E. Birdzell. 1986. How the West Grew Rich: The Transformation of the
+Industrial World. NY: Basic Books.
+Rubinstein, Ariel. 1998. "Review of Herbert Si-
+mon, An Empirically Based Microeconomics," J. Econ. Lit. 37:4, pp. 1711-12.
+Shelanski, H. A. and P. G. Klein. 1995. "Empirical Research in Transaction Cost Economics-A Review and Assessment," J. Law Econ. Org. 11:2, pp. 335-61.
+Simon, Herbert. 1957. Models Of Man. NY: John Wiley.
+. 1985. "Human Nature in Politics: The Dialogue of Psychology with Political Science," Amer. Polit. Sci. Rev. 79:2, pp. 293-304.
+Smelser, Neil and Richard Swedberg, eds. 1994. "Introduction," in The Handbook of Economic Sociology. Princeton: Princeton U. Press.
+Stigler, George. 1968. The Organization of Indus- try. Homewood, IL: Richard D. Irwin.
+Summers, Clyde. 1969. "Collective Agreements and the Law of Contracts," Yale Law J. 78:4, pp. 525-75.
+Wang, Shusheng and Tian Zhu. 2000. "Contract Law and the Boundary of the Firm," unpub- lished manuscript, Hong Kong U. Science and Technology.
+Whinston, Michael. 1997. "On the Transaction Cost Determinants of Vertical Integration," un- published manuscript, Northwestern U.
+Williamson, Oliver E. 1975. Markets and Hierar- chies: Analysis and Antitrust Implications. NY: Free Press.
+. 1976. "Franchise Bidding for Natural Mo- nopolies-In General and with Respect to CATV," Bell J. Econ. 7:1, pp. 73-104.
+. 1985. The Economic Institutions of Capi- talism. NY: Free Press.
+1991. "Comparative Economic Organi- zation: The Analysis of Discrete Structural Al- ternatives," Admin. Sci. Quart. 36:2, pp. 269- 96.
+. 1996. The Mechanisms of Governance. NY: Oxford U. Press.
+. 1998. "Transaction Cost Economics: How It Works; Where It Is Headed," De Economist, 146:1, pp. 23-58.
+-. 1999. "Public and Private Bureaucracies: A Transaction Cost Economics Perspective," J. Law Econ. Org. 15:1, pp. 306-42.
